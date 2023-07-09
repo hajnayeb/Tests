@@ -1,7 +1,7 @@
 # I have conducted the following vibration tests at ITRAC Co.
 
 **Car horn endurance test:** 
-![IMG_1475](https://github.com/hajnayeb/Tests/assets/74108898/e24d087c-36d4-45e2-b3ad-d7066fe56450)
+![IMG_1475-s](https://github.com/hajnayeb/Tests/assets/74108898/859aae53-1eda-4175-8223-33ecb6a2229f)
 
 **Steering wheel endurance test and modal analysis:** 
 ![IMG_1996](https://github.com/hajnayeb/Tests/assets/74108898/6fef1082-53b3-4362-8314-dd589088c044)
