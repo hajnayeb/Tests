@@ -20,7 +20,7 @@
 
 ![IMG_4784](https://github.com/hajnayeb/Tests/assets/74108898/7a70831d-2288-4536-95f0-333b2df31e4d)
 
-**6) Fatigue test of a car seat:**
+**6) Endurance test of a car seat:**
 
 ![image](https://github.com/hajnayeb/Tests/assets/74108898/5a241c39-eca1-4547-8f5d-1eb2ee50d564)
 
