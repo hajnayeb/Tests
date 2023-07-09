@@ -19,3 +19,6 @@
 **5) Fatigue test of a car radiator:**
 
 ![IMG_4784](https://github.com/hajnayeb/Tests/assets/74108898/7a70831d-2288-4536-95f0-333b2df31e4d)
+
+**6) Endurance test of L90 dashboard in a climate chamber:**
+![IMG_6406](https://github.com/hajnayeb/Tests/assets/74108898/e0db6ca9-595a-475e-9c2d-3e3e110a740c)
