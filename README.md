@@ -16,3 +16,6 @@
 
 ![IMG_3571](https://github.com/hajnayeb/Tests/assets/74108898/bbce229e-7b44-4d5a-b3e7-305840024897)
 
+**4) Fatigue test of a car radiator:**
+
+![IMG_4784](https://github.com/hajnayeb/Tests/assets/74108898/7a70831d-2288-4536-95f0-333b2df31e4d)
